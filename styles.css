@@ -1,0 +1,8 @@
+.header {
+  background-color: green;
+  color: linen;
+}
+
+.reset-shadow {
+  box-shadow: none !important;
+}
